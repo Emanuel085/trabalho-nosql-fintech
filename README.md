@@ -18,7 +18,7 @@ O sistema orquestra quatro bancos de dados simultaneamente, utilizando cada um p
 * **Linguagem**: `Python 3.12` (executado via Docker).
 * **Orquestração**: `Docker` & `Docker Compose`.
 * **Bancos**: `Redis`, `MongoDB`, `Cassandra`, `Neo4j`.
-* **API**: `Binance Public Data` (Bitcoin - BTCUSDT).
+* **API**: `Binance Public Data` (Bitcoin - BTCUSDT - https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT).
 
 ---
 
